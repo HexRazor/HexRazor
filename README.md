@@ -1,16 +1,16 @@
 # HexRazor
 
-**Red Teaming // Web Exploitation // Active Directory**
+**Red Teaming // Web Exploitation // Binary Exploitation**
 
-I am a security researcher and developer specializing in **Web Application Security** (Client & Server-side attacks). Currently, I am expanding my scope into **Active Directory** exploitation while building custom reconnaissance and assessment tools.
+I am a **Cybersecurity Student** and developer specializing in **Web Application Security** (Client & Server-side attacks). Currently, I am expanding my knowledge into low-level security, specifically focusing on **Binary Exploitation** and **Rootkit development**.
 
 ---
 
 ### 📡 Current Focus
 
 * **Web Exploitation:** Advanced server-side attacks (SQLi, SSRF, RCE) and client-side manipulation (XSS, CSRF).
-* **Active Directory:** Learning lateral movement, privilege escalation, and domain dominance.
-* **Tool Development:** Automating security workflows using Python and C/C++.
+* **Binary Exploitation:** Learning memory corruption vulnerabilities, buffer overflows, and reverse engineering.
+* **Rootkits:** Studying kernel-level exploitation, Loadable Kernel Modules (LKM), and persistence mechanisms.
 
 ---
 
