@@ -61,3 +61,4 @@ I am a **Cybersecurity Student** and developer specializing in **Web Application
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HexRazor&layout=compact&theme=gotham&hide_border=true&langs_count=8" alt="HexRazor Top Langs" />
 </p>
+
