@@ -25,9 +25,9 @@ Web app security by day — memory corruption and kernel internals by night.
 **focus**
 
 ```
-[web]     → SQLi · SSRF · RCE · XSS · CSRF
+[web]     → Server-side attacks · Client-side attacks · API security
 [binary]  → Buffer overflows · Memory corruption · Reverse engineering
-[kernel]  → LKM rootkits · Kernel exploitation · Persistence
+[kernel]  → LKM/eBPF rootkits · Kernel exploitation · Persistence
 ```
 
 ---
@@ -37,8 +37,7 @@ Web app security by day — memory corruption and kernel internals by night.
 ```
 lang      C · C++ · Python · JavaScript · Bash
 web       Node.js · Express · Flask · REST APIs
-db        PostgreSQL · MongoDB · SQL
-env       Linux · Kali · Burp Suite · Git
+env       Linux
 ```
 
 ---
